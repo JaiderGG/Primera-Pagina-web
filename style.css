@@ -1,0 +1,11 @@
+h1{ color: brown; 
+} 
+img{ width: 400px; 
+    border-width: 10px; 
+    border-color: red; 
+    border-style: double; 
+    border-radius: 20px; 
+} 
+body { background-color: #121212; 
+    color: #ffffff; 
+}
