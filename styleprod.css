@@ -1,0 +1,23 @@
+body { background-color: #121212; 
+  color: #ffffff; 
+  text-align: left;
+}
+
+div{
+  text-align: center;
+}
+
+img{
+  border-radius: 20%;
+  border-width: 5px;
+  /* border-color: red;
+  border-style: double;  */
+  box-shadow:
+  10px 15px 5px
+  #ff0000;
+  transition: .5s ease;
+}
+
+img:hover{
+  transform: scale(1.1);
+}
